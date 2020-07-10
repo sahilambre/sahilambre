@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello fellow programmers 👋
+
+- 🎓 I’m currently doing my Bachelors in Computer Engineering 
 - 📫 How to reach me: sahilws111@gmail.com
 <!--
 **sahilambre/sahilambre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
