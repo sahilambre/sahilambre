@@ -13,7 +13,7 @@
   <img align="left" alt="Sahil's LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/61/61109.png" /></a>
   
 <a href="https://www.instagram.com/_sahilambre/">
-  <img align="left" alt="Sahil's Instagram" width="24px" src="https://i7.pngguru.com/preview/103/197/141/computer-icons-clip-art-instagram-icon-thumbnail.jpg" />  
+  <img align="left" alt="Sahil's Instagram" width="24px" src="https://icon-library.com/images/instagram-icon-black-and-white-png/instagram-icon-black-and-white-png-1.jpg" />  
   
   <!--
     [LinkedIn](https://www.linkedin.com/in/sahilambre/) 
