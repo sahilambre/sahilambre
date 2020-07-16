@@ -7,12 +7,16 @@
 
 
 <a href="https://twitter.com/_sahilambre">
-  <img align="left" alt="Sahil's Twitter" width="22px" src="https://image.flaticon.com/icons/svg/60/60580.svg" />
+  <img align="left" alt="Sahil's Twitter" width="22px" src="https://image.flaticon.com/icons/svg/60/60580.svg" /></a>
+ 
+<a href="https://www.linkedin.com/in/sahilambre/">
+  <img align="left" alt="Sahil's LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/61/61109.png" /></a>
+  
+<a href="https://www.instagram.com/_sahilambre/">
+  <img align="left" alt="Sahil's Instagram" width="22px" src="https://i7.pngguru.com/preview/103/197/141/computer-icons-clip-art-instagram-icon-thumbnail.jpg" />  
+  
   <!--
-</a>  <a href="https://www.linkedin.com/in/tanmmayy">
-  <img align="left" alt="Tanmay's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>   <a href="https://t.me/tanmmayy">
-  <img align="left" alt="Tanmay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+     
 -->
 
 
