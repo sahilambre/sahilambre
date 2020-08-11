@@ -7,15 +7,14 @@
 
 
 <a href="https://twitter.com/_sahilambre">
-  <img align="left" alt="Sahil's Twitter" width="22px" src="https://image.flaticon.com/icons/svg/60/60580.svg" /></a>
+  <img align="left" alt="Sahil's Twitter" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384017.svg" /></a>
  
 <a href="https://www.linkedin.com/in/sahilambre/">
-  <img align="left" alt="Sahil's LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/61/61109.png" /></a>
+  <img align="left" alt="Sahil's LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" /></a>
   
 <a href="https://www.instagram.com/_sahilambre/">
-  <img align="left" alt="Sahil's Instagram" width="24px" src="https://icon-library.com/images/instagram-icon-black-and-white-png/instagram-icon-black-and-white-png-1.jpg" />
+  <img align="left" alt="Sahil's Instagram" width="24px" src="https://image.flaticon.com/icons/svg/1384/1384015.svg" />
   </a> | 
-  
   <!--
     [LinkedIn](https://www.linkedin.com/in/sahilambre/) 
 -->
@@ -29,7 +28,7 @@
 **sahilambre/sahilambre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
