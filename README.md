@@ -8,14 +8,14 @@
   
 <a href="https://www.instagram.com/_sahilambre/">
   <img align="left" alt="Sahil's Instagram" width="24px" src="https://image.flaticon.com/icons/svg/1384/1384015.svg" />
-  </a> | [![GitHub watchers](https://img.shields.io/github/watchers/sahilambre/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+  </a> | 
   
 - 🎓 I’m currently doing my Bachelors in Computer Engineering <br>
 - 🌱 I’m currently learning web development <br>
 - 📫 How to reach me: sahilws111@gmail.com <br>
 - 🤔 I’m looking for help with data structures and algorithms <br>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sahilambre)](https://github.com/anuraghazra/github-readme-stats)
+  [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahilambre)](https://github.com/anuraghazra/github-readme-stats)
   
   <!--
     [LinkedIn](https://www.linkedin.com/in/sahilambre/) 
