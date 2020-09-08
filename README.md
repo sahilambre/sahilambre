@@ -8,7 +8,7 @@
   
 <a href="https://www.instagram.com/_sahilambre/">
   <img align="left" alt="Sahil's Instagram" width="24px" src="https://image.flaticon.com/icons/svg/1384/1384015.svg" />
-  </a> | 
+  </a> | [![GitHub watchers](https://img.shields.io/github/watchers/sahilambre/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
   
 - 🎓 I’m currently doing my Bachelors in Computer Engineering <br>
 - 🌱 I’m currently learning web development <br>
