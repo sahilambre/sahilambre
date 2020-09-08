@@ -9,6 +9,9 @@
 <a href="https://www.instagram.com/_sahilambre/">
   <img align="left" alt="Sahil's Instagram" width="24px" src="https://image.flaticon.com/icons/svg/1384/1384015.svg" />
   </a> | 
+  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sahilambre)](https://github.com/anuraghazra/github-readme-stats)
+  
   <!--
     [LinkedIn](https://www.linkedin.com/in/sahilambre/) 
 - 🎓 I’m currently doing my Bachelors in Computer Engineering 
