@@ -9,11 +9,11 @@
 <a href="https://www.instagram.com/_sahilambre/">
   <img align="left" alt="Sahil's Instagram" width="24px" src="https://image.flaticon.com/icons/svg/1384/1384015.svg" />
   </a> | 
-  <br>
-- 🎓 I’m currently doing my Bachelors in Computer Engineering 
-- 🌱 I’m currently learning web development
-- 📫 How to reach me: sahilws111@gmail.com
-- 🤔 I’m looking for help with data structures and algorithms
+  
+- 🎓 I’m currently doing my Bachelors in Computer Engineering <br>
+- 🌱 I’m currently learning web development <br>
+- 📫 How to reach me: sahilws111@gmail.com <br>
+- 🤔 I’m looking for help with data structures and algorithms <br>
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sahilambre)](https://github.com/anuraghazra/github-readme-stats)
   
