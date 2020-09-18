@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with data structures and algorithms <br>
 
   [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahilambre)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilambre)](https://github.com/anuraghazra/github-readme-stats)  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilambre)](https://github.com/anuraghazra/github-readme-stats) --> 
   <!--
     [LinkedIn](https://www.linkedin.com/in/sahilambre/) 
 - 🎓 I’m currently doing my Bachelors in Computer Engineering 
