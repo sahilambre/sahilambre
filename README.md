@@ -10,7 +10,7 @@
   <img align="left" alt="Sahil's Instagram" width="24px" src="https://image.flaticon.com/icons/svg/1384/1384015.svg" />
   </a> | 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
-  
+  <br><br>
 - 🎓 I’m currently doing my Bachelors in Computer Engineering <br>
 - 🌱 I’m currently learning web development <br>
 - 📫 How to reach me: sahilws111@gmail.com <br>
