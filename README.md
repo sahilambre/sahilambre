@@ -9,6 +9,7 @@
 <a href="https://www.instagram.com/_sahilambre/">
   <img align="left" alt="Sahil's Instagram" width="24px" src="https://image.flaticon.com/icons/svg/1384/1384015.svg" />
   </a> | 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
   
 - 🎓 I’m currently doing my Bachelors in Computer Engineering <br>
 - 🌱 I’m currently learning web development <br>
