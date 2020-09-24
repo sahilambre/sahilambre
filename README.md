@@ -8,7 +8,7 @@
   
 <a href="https://www.instagram.com/_sahilambre/">
   <img align="left" alt="Sahil's Instagram" width="24px" src="https://image.flaticon.com/icons/svg/1384/1384015.svg" />
-  </a> |  <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
+  </a> |<img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /><br>
   <!-- https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif -->
