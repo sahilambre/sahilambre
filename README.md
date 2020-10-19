@@ -11,9 +11,9 @@
   </a> 
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sahilambre" alt="visitor badge"/>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /><br>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/d2lnpnCNrbIFG/giphy.gif" /><br>
   <!-- https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif -->
-  
+  <!-- https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif -->
 - 🎓 I’m currently doing my Bachelors in Computer Engineering <br>
 - 🌱 I’m currently learning web development <br>
 - 📫 How to reach me: sahilws111@gmail.com <br>
