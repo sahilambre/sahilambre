@@ -7,7 +7,7 @@
   <img align="left" alt="Sahil's LinkedIn" width="22px" src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram&page=1&position=3&page=1&position=3&related_id=174855&origin=search" /></a>
   
 <a href="https://www.instagram.com/_sahilambre/">
-  <img align="left" alt="Sahil's Instagram" width="24px" src="https://image.flaticon.com/icons/svg/1384/1384015.svg" />
+  <img align="left" alt="Sahil's Instagram" width="24px" src="https://icon-library.com/images/instagram-icon-black-and-white-png/instagram-icon-black-and-white-png-1.jpg" />
   </a> 
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sahilambre" alt="visitor badge"/>
 
