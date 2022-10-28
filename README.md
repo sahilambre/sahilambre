@@ -22,7 +22,10 @@
   <!-- [![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahilambre)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilambre)](https://github.com/anuraghazra/github-readme-stats) --> 
 <!-- </a><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilambre&layout=compact" height="300" width="400"></a> -->
-<br></a><a href="https://github.com/LordDashMe/github-contribution-stats/"><img src="https://github-contribution-stats.vercel.app/api/?username=sahilambre" width="300"></a>
+<!-- <br></a><a href="https://github.com/LordDashMe/github-contribution-stats/"><img src="https://github-contribution-stats.vercel.app/api/?username=sahilambre" width="300"></a> -->
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sahilambre)](https://github.com/LordDashMe/github-contribution-stats/)
+
   <!--
     [LinkedIn](https://www.linkedin.com/in/sahilambre/) 
 - 🎓 I’m currently doing my Bachelors in Computer Engineering 
