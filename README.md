@@ -14,8 +14,8 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/d2lnpnCNrbIFG/giphy.gif" /><br>
   <!-- https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif -->
   <!-- https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif -->
-- 🎓 I’m currently doing my Bachelors in Computer Engineering <br>
-- 🌱 I’m currently learning web development <br>
+- 🎓 MS in CS Graduate Student at Stevens Institute of Technology <br>
+- 🌱 I’m currently learning DSA <br>
 - 📫 How to reach me: sahilws111@gmail.com <br>
 - 🤔 I’m looking for help with data structures and algorithms <br>
 
