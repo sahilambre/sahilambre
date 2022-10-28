@@ -1,7 +1,7 @@
 # Hello fellow programmers 👋
 
 <a href="https://twitter.com/_sahilambre">
-  <img align="left" alt="Sahil's Twitter" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384017.svg" /></a>
+  <img align="left" alt="Sahil's Twitter" width="22px" src="https://icon-library.com/images/black-twitter-icon-transparent-background/black-twitter-icon-transparent-background-26.jpg" /></a>
  
 <a href="https://www.linkedin.com/in/sahilambre/">
   <img align="left" alt="Sahil's LinkedIn" width="22px" src="https://icon-library.com/images/linkedin-icon-eps/linkedin-icon-eps-25.jpg" /></a>
