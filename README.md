@@ -4,7 +4,7 @@
   <img align="left" alt="Sahil's Twitter" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384017.svg" /></a>
  
 <a href="https://www.linkedin.com/in/sahilambre/">
-  <img align="left" alt="Sahil's LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" /></a>
+  <img align="left" alt="Sahil's LinkedIn" width="22px" src="https://www.flaticon.com/free-icon/instagram_174855?term=instagram&page=1&position=3&page=1&position=3&related_id=174855&origin=search" /></a>
   
 <a href="https://www.instagram.com/_sahilambre/">
   <img align="left" alt="Sahil's Instagram" width="24px" src="https://image.flaticon.com/icons/svg/1384/1384015.svg" />
