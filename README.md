@@ -1,4 +1,5 @@
 # Hello 👋
+![Your Cover Image](group1.png)
 
 <a href="https://twitter.com/_sahilambre">
   <img align="left" alt="Sahil's Twitter" width="22px" src="https://icon-library.com/images/black-twitter-icon-transparent-background/black-twitter-icon-transparent-background-26.jpg" /></a>
