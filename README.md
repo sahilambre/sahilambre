@@ -10,8 +10,9 @@
   
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sahilambre)](https://github.com/LordDashMe/github-contribution-stats/)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sahilambre)
-  
+![Leetcode Stats](https://leetcard.jacoblin.cool/sahilambre/lapor?ext=contest)
+
+  ![](https://leetcard.jacoblin.cool/lapor?ext=contest)
 
 
 
