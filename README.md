@@ -6,13 +6,15 @@
    <img src="Group 1 copy.png" />
 </div> 
   </a> 
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sahilambre" alt="visitor badge"/>
+
+<br/>
+
+[![Sahil's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sahilambre&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
   
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sahilambre)](https://github.com/LordDashMe/github-contribution-stats/)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sahilambre/lapor?ext=contest)
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sahilambre" alt="visitor badge"/>
 
-  ![](https://leetcard.jacoblin.cool/lapor?ext=contest)
 
 
 
