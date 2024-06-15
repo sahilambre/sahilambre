@@ -9,9 +9,17 @@
 
 <br/>
 
+<div align="center">
+
 [![Sahil's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=sahilambre&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sahilambre)](https://github.com/LordDashMe/github-contribution-stats/)
+</div>
+
+
   
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=sahilambre)](https://github.com/LordDashMe/github-contribution-stats/)
+
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sahilambre" alt="visitor badge"/>
 
