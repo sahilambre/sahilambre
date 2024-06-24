@@ -1,4 +1,6 @@
-# Hello👋
+<div align="center">
+  Hello👋
+</div>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sahilambre" alt="visitor badge"/> <br/>
 
 
