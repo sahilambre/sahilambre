@@ -1,5 +1,5 @@
 <div align="center">
-  Hello👋
+ <h2>Hello👋</h2> 
 </div>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=sahilambre" alt="visitor badge"/> <br/>
 
