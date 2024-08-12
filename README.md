@@ -70,9 +70,7 @@
         </a>
       </td>
       <td style="border: none;">
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=sahilambre&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D&card_width=350&fire=EB0000&currStreakLabel=EB0000&ring=FFB71FC4&hide_longest_streak=true" alt="GitHub Streak" />
-        </a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sahilambre&theme=react&hide_border=true&border_radius=10&hide_longest_streak=true" alt="GitHub Streak" /></a>
       </td>
     </tr>
   </table>
