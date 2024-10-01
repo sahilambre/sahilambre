@@ -2,6 +2,8 @@
   <h2>Hello👋</h2>
 </div>
 
+[![An image of @sahilambre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilambre)](https://holopin.io/@sahilambre)
+
 <div align="center">
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=sahilambre" alt="visitor badge" />
 </div>
