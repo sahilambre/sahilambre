@@ -47,6 +47,8 @@ Welcome to my GitHub! Check out my projects or explore my [**Portfolio Website**
 Feel free to connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/Sahil%20Ambre-%230A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sahilambre/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/sahilambre/)
+
 
 ## 😊 Thank you for visiting!
 
