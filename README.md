@@ -52,7 +52,7 @@ Feel free to connect with me!
 
 ## 😊 Thank you for visiting!
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sahilambre&theme=react&hide_border=true&border_radius=10&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sahilambre&theme=react&hide_border=true&border_radius=10&hide_longest_streak=true" alt="GitHub Streak" /></a> -->
 
 
 <!--
