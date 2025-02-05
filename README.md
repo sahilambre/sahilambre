@@ -53,6 +53,9 @@ Feel free to connect with me!
 
 
 ## 😊 Thank you for visiting!
+[![Visits Badge](https://badges.pufler.dev/visits/sahilambre/badge-it)](https://badges.pufler.dev)
+[![Total commits](https://badges.pufler.dev/commits/all/sahilambre)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/sahilambre)](https://badges.pufler.dev)
 
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sahilambre&theme=react&hide_border=true&border_radius=10&hide_longest_streak=true" alt="GitHub Streak" /></a> -->
 
@@ -71,5 +74,6 @@ Feel free to connect with me!
       </td>
     </tr>
   </table>
+  ![Visitor Count](https://profile-counter.glitch.me/sahilambre/count.svg)
 </div>
 -->
