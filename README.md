@@ -6,6 +6,8 @@ Welcome to my GitHub! Check out my projects or explore my [**Portfolio Website**
 
 🚀 I’m passionate about building impactful software and am currently seeking opportunities in software development.
 
+🌱 I’m currently learning LangChain
+
 ## 💻 Skills
 
 ![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white&labelColor=0%2C0%2C255)
